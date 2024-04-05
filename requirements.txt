@@ -1,0 +1,9 @@
+numpy
+scikit-learn
+json5
+numpy
+librosa
+joblib
+pandas
+opensmile
+tqdm
