@@ -1,2 +1,10 @@
-# Exclude dataset
-data/raw/
+# Ignore everything in the raw data directory
+data/raw/*
+
+# Exclude .gitkeep files from being ignored
+!.gitkeep
+
+# Ignore content in processed subdirectories but allow .gitkeep
+data/processed/features/ad/*
+data/processed/features/cn/*
+data/processed/labels/*
