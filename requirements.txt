@@ -7,4 +7,5 @@ joblib
 pandas
 opensmile
 tqdm
-py-xgboost
+xgboost
+lightgbm
